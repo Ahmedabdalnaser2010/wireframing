@@ -10,3 +10,17 @@ Wireframing is important because it:
 - Helps identify usability issues before development begins
 - Saves time and resources by catching problems early
 - Provides a clear guide for the design and development process
+
+## Key Elements of Wireframing
+
+### Layout Structure
+Defines the arrangement of elements on the page. Example: A wireframe might show a header at the top, navigation on the left, and main content area in the center.
+
+### Navigation
+Shows how users will move through the site or application. Example: A wireframe might include a navigation bar with links to "Home," "About," and "Contact" pages.
+
+### Content Placement
+Indicates where text, images, and other content will be positioned. Example: A wireframe might use placeholder boxes to show where images will go and lines to represent text blocks.
+
+### Functionality
+Outlines key functionalities and interactions. Example: A wireframe might show how a dropdown menu will work or where buttons will be placed.
