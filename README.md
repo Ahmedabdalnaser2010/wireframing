@@ -24,3 +24,22 @@ Indicates where text, images, and other content will be positioned. Example: A w
 
 ### Functionality
 Outlines key functionalities and interactions. Example: A wireframe might show how a dropdown menu will work or where buttons will be placed.
+
+## Types of Wireframes
+
+### Low-Fidelity Wireframes
+- Simple sketches or basic digital layouts
+- Focus on overall structure and functionality
+- No detailed design elements
+- Typically black and white or grayscale
+- Used early in the design process for quick iteration
+
+### High-Fidelity Wireframes
+- More detailed and refined versions
+- Include specific layout and design elements
+- May include some colors, fonts, and basic graphics
+- Closer to the final design
+- Used later in the process to refine details
+
+### Example Wireframe Type
+The wireframe shown in the project description is a low-fidelity wireframe, as it uses basic shapes and grayscale colors to represent the layout without detailed design elements.
