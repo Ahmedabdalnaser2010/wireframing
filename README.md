@@ -43,3 +43,22 @@ Outlines key functionalities and interactions. Example: A wireframe might show h
 
 ### Example Wireframe Type
 The wireframe shown in the project description is a low-fidelity wireframe, as it uses basic shapes and grayscale colors to represent the layout without detailed design elements.
+
+## Wireframing Tools
+
+Popular wireframing tools include:
+- Figma
+- Adobe XD
+- Sketch
+- Balsamiq
+- Axure RP
+
+### Why Figma is Recommended
+Figma is a powerful, collaborative design tool that's excellent for wireframing because:
+- It's browser-based and works across platforms
+- Allows real-time collaboration with team members
+- Has robust vector editing tools
+- Offers components and styles for consistent design
+- Provides prototyping capabilities
+- Has a free tier available
+- Easy to share and gather feedback
